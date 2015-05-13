@@ -130,9 +130,9 @@
 			<div ex:role="exhibit-view" 
 			ex:viewClass="Exhibit.TabularView"  
 			ex:label="Table"  
-			ex:columns=".label,.email,.impegno_sottoscritto,.fonte_indirizzo_mail"  
-			ex:columnLabels="nome, email, impegno sottoscritto,fonte indirizzo email" 
-			ex:columnFormats="list,list,list,list"
+			ex:columns=".label,.email,.impegno_sottoscritto"  
+			ex:columnLabels="nome, email, impegno sottoscritto" 
+			ex:columnFormats="list,list,list"
 			ex:tableStyler="tableStyler"> 
 			<div ex:role="exhibit-lens">
 				<div class="table-responsive">
@@ -141,7 +141,6 @@
 							<td><strong><span ex:content=".label"></span></strong></td>
 							<td><a ex:href-subcontent="mailto:{{.email}}"><span ex:content=".email"></span></a></td>
 							<td><strong><span ex:content=".impegno_sottoscritto"></span></strong></td>
-							<td><a ex:href-content=".fonte_indirizzo_mail" target="_blank">Apri</a></td>
 						</tr>
 					</table>
 				</div>
