@@ -7,9 +7,9 @@
 	<meta name="description" content="descrizione da inserire">
 	<meta name="author" content="OpenDataSicilia">
 
-	<meta property="og:image" content="http://petrusino.opendatasicilia.it/img/share.jpg" />
+<!-- 	<meta property="og:image" content="http://petrusino.opendatasicilia.it/img/share.jpg" />
 	<meta property="og:title" content="Petrusino, ... perché certi siti, apps, mappe, servizi sono un po' come il prezzemolo e non è facili distinguerli ..." />
-	<meta property="og:url" content="http://petrusino.opendatasicilia.it" />
+	<meta property="og:url" content="http://petrusino.opendatasicilia.it" /> -->
 
 	<!--link rel="stylesheet/less" href="less/bootstrap.less" type="text/css" /-->
 	<!--link rel="stylesheet/less" href="less/responsive.less" type="text/css" /-->
@@ -29,7 +29,7 @@
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57-precomposed.png">
-    <link rel="shortcut icon" href="img/favicon.png">
+    <!-- <link rel="shortcut icon" href="img/favicon.png"> -->
 
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
@@ -44,8 +44,8 @@
     <script src="./js/dist/exhibit-api.js?locale=it"></script>
 
     
-
-    <script type="text/javascript" src="./js/ga.js"></script>
+    <!-- Inserire codice analytics -->
+    
 
     <script type="text/javascript">
     var tableStyler = function(table, database) {
@@ -107,61 +107,61 @@
 				ex:expression=".provincia" 
 				ex:facetLabel="Provincia">
 			</div>
-			</div>
-			<div class="col-md-4 column">
-				<div ex:role="facet" 
-				ex:expression=".comune" 
-				ex:facetLabel="Comune">
-			</div>
-			</div>
-			<div class="col-md-4 column">
-				<div ex:role="facet" 
-				ex:expression=".impegno_sottoscritto" 
-				ex:facetLabel="Impegno sottoscritto">
+		</div>
+		<div class="col-md-4 column">
+			<div ex:role="facet" 
+			ex:expression=".comune" 
+			ex:facetLabel="Comune">
+		</div>
+	</div>
+	<div class="col-md-4 column">
+		<div ex:role="facet" 
+		ex:expression=".impegno_sottoscritto" 
+		ex:facetLabel="Impegno sottoscritto">
+	</div>
+</div>
+</div>
+<div class="row clearfix">
+	<div class="col-md-12 column">
+
+		<div ex:role="viewPanel" style="padding: 0in;">
+
+
+			<div ex:role="exhibit-view" 
+			ex:viewClass="Exhibit.TabularView"  
+			ex:label="Table"  
+			ex:columns=".label,.email,.impegno_sottoscritto,.fonte_indirizzo_mail"  
+			ex:columnLabels="nome, email, impegno sottoscritto,fonte indirizzo email" 
+			ex:columnFormats="list,list,list,list"
+			ex:tableStyler="tableStyler"> 
+			<div ex:role="exhibit-lens">
+				<div class="table-responsive">
+					<table class="table">
+						<tr>
+							<td><strong><span ex:content=".label"></span></strong></td>
+							<td><a ex:href-subcontent="mailto:{{.email}}"><span ex:content=".email"></span></a></td>
+							<td><strong><span ex:content=".impegno_sottoscritto"></span></strong></td>
+							<td><a ex:href-content=".fonte_indirizzo_mail" target="_blank">Apri</a></td>
+						</tr>
+					</table>
 				</div>
-			</div>
-		</div>
-		<div class="row clearfix">
-			<div class="col-md-12 column">
-
-				<div ex:role="viewPanel" style="padding: 0in;">
-
-
-					<div ex:role="exhibit-view" 
-					ex:viewClass="Exhibit.TabularView"  
-					ex:label="Table"  
-					ex:columns=".label,.email,.impegno_sottoscritto,.fonte_indirizzo_mail"  
-					ex:columnLabels="nome, email, impegno sottoscritto,fonte indirizzo email" 
-					ex:columnFormats="list,list,list,list"
-					ex:tableStyler="tableStyler"> 
-					<div ex:role="exhibit-lens">
-						<div class="table-responsive">
-							<table class="table">
-								<tr>
-									<td><strong><span ex:content=".label"></span></strong></td>
-									<td><a ex:href-subcontent="mailto:{{.email}}"><span ex:content=".email"></span></a></td>
-									<td><strong><span ex:content=".impegno_sottoscritto"></span></strong></td>
-									<td><a ex:href-content=".fonte_indirizzo_mail" target="_blank">Apri</a></td>
-								</tr>
-							</table>
-						</div>
-
-					</div>
-				</div> 
-
-
-
 
 			</div>
+		</div> 
 
-		</div>
-		<hr>
-		<footer>
-			<p class="text-center">
-				<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Petrusino</span> di<a xmlns:cc="http://creativecommons.org/ns#" href="http://opendatasicilia.it" property="cc:attributionName" rel="cc:attributionURL"> Open Data Sicilia</a> è distribuito con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.
-			</p>
-		</footer>
+
+
 
 	</div>
+
+</div>
+<hr>
+<footer>
+	<p class="text-center">
+		<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">nome da inserire</span> di<a xmlns:cc="http://creativecommons.org/ns#" href="http://opendatasicilia.it" property="cc:attributionName" rel="cc:attributionURL"> Open Data Sicilia</a> è distribuito con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.
+	</p>
+</footer>
+
+</div>
 </body>
 </html>
