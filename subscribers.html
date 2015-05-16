@@ -30,10 +30,12 @@
     <link rel="exhibit/data" 
     type="application/jsonp"
     href="https://spreadsheets.google.com/feeds/list/1UdCX5XYk1zO7Y5cegEIpvoBDHZjvD2B8y_5-5U58Voo/od6/public/basic?alt=json-in-script"
-    ex:converter="googleSpreadsheets" />
+    data-ex-converter="googleSpreadsheets" />
 
 
     <script src="./js/dist/exhibit-api.js?locale=it"></script>
+
+    <link rel="exhibit-extension" type="text/javscript" href="./js/dist/extensions/map/map-extension.js" />
 
     
     <!-- Inserire codice analytics -->
@@ -53,7 +55,7 @@
 
 	<div class="container">
 		<div class="row clearfix">
-		
+
 			<div class="col-md-12 column">
 				<nav class="navbar navbar-default" role="navigation">
 					<div class="navbar-header">
@@ -95,7 +97,7 @@
 
 		<div class="row clearfix">
 			<div class="col-md-12 column">
-			<h1 id="subscribers">Candidati che hanno sottoscritto l'impegno</h1>
+				<h1 id="subscribers">Candidati che hanno sottoscritto l'impegno</h1>
 				<p><a class="btn btn-lg btn-success" href="#" role="button">Sei un candidato? Sottoscrivi l'impegno se non lo hai ancora fatto.</a></p>
 
 			</div>
@@ -107,7 +109,7 @@
 
 			</div>
 			<div class="col-md-10 column">
-				<strong>Cerca</strong><div ex:role="facet" ex:facetClass="TextSearch"></div>
+				<strong>Cerca</strong><div data-ex-role="facet" data-ex-facet-class="TextSearch"></div>
 			</div>
 			<div class="col-md-1 column">
 
@@ -115,55 +117,68 @@
 		</div>
 		<div class="row clearfix">
 			<div class="col-md-4 column">
-				<div ex:role="facet" 
-				ex:expression=".provincia" 
-				ex:facetLabel="Provincia">
+				<div data-ex-role="facet" 
+				data-ex-expression=".provincia" 
+				data-ex-facetLabel="Provincia">
 			</div>
 		</div>
 		<div class="col-md-4 column">
-			<div ex:role="facet" 
-			ex:expression=".comune" 
-			ex:facetLabel="Comune">
+			<div data-ex-role="facet" 
+			data-ex-expression=".comune" 
+			data-ex-facet-label="Comune">
 		</div>
 	</div>
 	<div class="col-md-4 column">
-		<div ex:role="facet" 
-		ex:expression=".impegno_sottoscritto" 
-		ex:facetLabel="Impegno sottoscritto">
+		<div data-ex-role="facet" 
+		data-ex-expression=".impegno_sottoscritto" 
+		data-ex-facet-label="Impegno sottoscritto">
 	</div>
 </div>
 </div>
 <div class="row clearfix">
 	<div class="col-md-12 column">
 
-		<div ex:role="viewPanel" style="padding: 0in;">
+		<div data-ex-role="viewPanel" style="padding: 0in;">
 
 
-			<div ex:role="exhibit-view" 
-			ex:viewClass="Exhibit.TabularView"  
-			ex:label="Table"  
-			ex:columns=".label,.email,.impegno_sottoscritto"  
-			ex:columnLabels="nome, email, impegno sottoscritto" 
-			ex:columnFormats="list,list,list"
-			ex:tableStyler="tableStyler"> 
-			<div ex:role="exhibit-lens">
+			<div data-ex-role="exhibit-view" 
+			data-ex-view-class="Exhibit.TabularView"  
+			data-ex-label="Tabella"  
+			data-ex-columns=".label,.email,.impegno_sottoscritto"  
+			data-ex-column-labels="nome, email, impegno sottoscritto" 
+			data-ex-column-formats="list,list,list"
+			data-ex-table-styler="tableStyler"> 
+			<div data-ex-role="exhibit-lens">
 				<div class="table-responsive">
 					<table class="table">
 						<tr>
-							<td><strong><span ex:content=".label"></span></strong></td>
-							<td><a ex:href-subcontent="mailto:{{.email}}"><span ex:content=".email"></span></a></td>
-							<td><strong><span ex:content=".impegno_sottoscritto"></span></strong></td>
+							<td><strong><span data-ex-content=".label"></span></strong></td>
+							<td><a data-ex-href-subcontent="mailto:{{.email}}"><span data-ex-content=".email"></span></a></td>
+							<td><strong><span data-ex-content=".impegno_sottoscritto"></span></strong></td>
 						</tr>
 					</table>
 				</div>
 
 			</div>
 		</div> 
-
-
-
-
+		<div data-ex-role="view" 
+		data-ex-view-class="Map"
+		data-ex-label="Mappa"
+		data-ex-latlng=".latlon"
+		data-ex-latlngPairSeparator=","
+		data-ex-center="37.584,14.068"
+		data-ex-zoom="8"
+		data-ex-map-height="500"
+		>
+		<div class="map-lens" data-ex-role="lens" style="display: none;">
+			<div><strong>Impegno sottoscritto</strong>: <span data-ex-content=".impegno_sottoscritto"></span></div>
+		</div>
 	</div>
+
+
+
+
+</div>
 
 </div>
 <hr>
