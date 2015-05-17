@@ -51,3 +51,10 @@ ul.share-buttons li{
     visibility: hidden !important;
 }
 /* rimosso momentaneamente export tool */
+
+.footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 40px;
+  border-top: 1px solid #eee;
+}
