@@ -154,16 +154,16 @@
 			<div data-ex-role="exhibit-view" 
 			data-ex-view-class="Exhibit.TabularView"  
 			data-ex-label="Tabella"  
-			data-ex-columns=".label,.email,.impegno_sottoscritto"  
-			data-ex-column-labels="nome, email, impegno sottoscritto" 
-			data-ex-column-formats="list,list,list"
+			data-ex-columns=".label,.impegno_sottoscritto"  
+			data-ex-column-labels="nome, impegno sottoscritto" 
+			data-ex-column-formats="list,list"
 			data-ex-table-styler="tableStyler"> 
 			<div data-ex-role="exhibit-lens">
 				<div class="table-responsive">
 					<table class="table">
 						<tr>
 							<td><strong><span data-ex-content=".label"></span></strong></td>
-							<td><a data-ex-href-subcontent="mailto:{{.email}}"><span data-ex-content=".email"></span></a></td>
+
 							<td><strong><span data-ex-content=".impegno_sottoscritto"></span></strong></td>
 						</tr>
 					</table>
