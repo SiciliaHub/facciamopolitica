@@ -30,8 +30,8 @@
      id="namedview19"
      showgrid="false"
      inkscape:zoom="0.49333333"
-     inkscape:cx="662.17714"
-     inkscape:cy="-8.4273769"
+     inkscape:cx="657.32608"
+     inkscape:cy="263.68309"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,19 +106,20 @@
      y="499.08398"
      id="text3137-8"
      xml:space="preserve"
-     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal;"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:linespacing="125%"><tspan
        x="1080.5767"
        y="499.08398"
        id="tspan3139-0"
-       style="font-size:20px;text-align:end;text-anchor:end;fill:#ffffff;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">#iovotoopendata</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;fill:#ffffff">#iovotopendata</tspan><tspan
        x="1080.5767"
        y="524.08398"
        id="tspan3227"
-       style="font-size:20px;text-align:end;text-anchor:end;fill:#ffffff;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">è un'iniziativa di</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;fill:#ffffff">è un'iniziativa di</tspan><tspan
        x="1080.5767"
        y="549.08398"
        id="tspan3229"
-       style="font-size:20px;text-align:end;text-anchor:end;fill:#ffffff;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">OpenDataSicilia.it</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;fill:#ffffff">OpenDataSicilia.it</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
