@@ -3,4 +3,4 @@ I dati in possesso della pubblica amministrazione divengono aperti (*Open Data*)
 
 In occasione delle dalle *elezioni amministrative del Maggio 2015* chiederemo ai candidati a sindaco di impegnarsi sull'avvio di un processo di apertura dei dati nei loro comuni.
 
-http://iovotoopendata.opendatasicilia.it/
+http://iovotopendata.opendatasicilia.it/
