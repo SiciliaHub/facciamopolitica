@@ -1,0 +1,1 @@
+[**iovotopendata**](http://iovotopendata.opendatasicilia.it/) di [Open Data Sicilia](http://opendatasicilia.it/) è distribuito con [Licenza](http://creativecommons.org/licenses/by-sa/4.0/) Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale.
