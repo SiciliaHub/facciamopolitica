@@ -1,0 +1,390 @@
+<?xml version="1.0" ?>
+<gexf xmlns="http://www.gexf.net/1.1draft" version="1.1" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd">
+  <meta lastmodifieddate="2015-03-05">
+    <creator>Gephi 0.8</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" timeformat="double" mode="dynamic">
+    <attributes class="node" mode="static">
+      <attribute id="Weight" title="Weight" type="integer"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="openglam" label="openglam">
+        <attvalues>
+          <attvalue for="Weight" value="147"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="146.0"></viz:size>
+        <viz:position x="85.451355" y="23.311462"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="opendata" label="opendata">
+        <attvalues>
+          <attvalue for="Weight" value="18"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.0"></viz:size>
+        <viz:position x="216.18933" y="192.14886"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="beniculturaliaperti" label="beniculturaliaperti">
+        <attvalues>
+          <attvalue for="Weight" value="12"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="-85.93768" y="487.40784"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="tempiotetrastilo" label="tempiotetrastilo">
+        <attvalues>
+          <attvalue for="Weight" value="3"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="211.5" y="382.1787"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="glamhack" label="glamhack">
+        <attvalues>
+          <attvalue for="Weight" value="7"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="438.71252" y="401.7614"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="womenshistorymonth" label="womenshistorymonth">
+        <attvalues>
+          <attvalue for="Weight" value="7"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-404.71997" y="305.0711"></viz:position>
+        <viz:color r="69" g="209" b="125"></viz:color>
+      </node>
+      <node id="womeninscience" label="womeninscience">
+        <attvalues>
+          <attvalue for="Weight" value="7"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="318.9312" y="49.641724"></viz:position>
+        <viz:color r="69" g="209" b="125"></viz:color>
+      </node>
+      <node id="codingdavinci" label="codingdavinci">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="63.550537" y="234.66272"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="copyright" label="copyright">
+        <attvalues>
+          <attvalue for="Weight" value="4"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="-111.427" y="253.48041"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="hack4fi" label="hack4fi">
+        <attvalues>
+          <attvalue for="Weight" value="6"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-299.68835" y="198.84802"></viz:position>
+        <viz:color r="69" g="125" b="209"></viz:color>
+      </node>
+      <node id="avoinglam" label="avoinglam">
+        <attvalues>
+          <attvalue for="Weight" value="6"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-411.85956" y="-321.5645"></viz:position>
+        <viz:color r="69" g="125" b="209"></viz:color>
+      </node>
+      <node id="mappingparty" label="mappingparty">
+        <attvalues>
+          <attvalue for="Weight" value="3"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="168.5097" y="303.21124"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="wikivez" label="wikivez">
+        <attvalues>
+          <attvalue for="Weight" value="3"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-212.75916" y="449.60242"></viz:position>
+        <viz:color r="209" g="69" b="69"></viz:color>
+      </node>
+      <node id="bullismo" label="bullismo">
+        <attvalues>
+          <attvalue for="Weight" value="3"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="200.81287" y="-304.41806"></viz:position>
+        <viz:color r="209" g="69" b="69"></viz:color>
+      </node>
+      <node id="allezculture" label="allezculture">
+        <attvalues>
+          <attvalue for="Weight" value="4"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="48.830322" y="-52.627808"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="verybello" label="verybello">
+        <attvalues>
+          <attvalue for="Weight" value="7"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="12.663879" y="-483.65814"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="speriamopenbbcc" label="speriamopenbbcc">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="409.81836" y="431.00275"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="digital" label="digital">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="92.81531" y="359.12268"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="roma" label="roma">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="391.7378" y="193.01239"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="tdlab" label="tdlab">
+        <attvalues>
+          <attvalue for="Weight" value="5"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="42.977234" y="496.1623"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+      <node id="glamwiki" label="glamwiki">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-275.1084" y="-272.09674"></viz:position>
+        <viz:color r="181" g="69" b="209"></viz:color>
+      </node>
+      <node id="dplafest" label="dplafest">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-427.6084" y="125.29968"></viz:position>
+        <viz:color r="181" g="69" b="209"></viz:color>
+      </node>
+      <node id="eebotcphack" label="eebotcphack">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="183.06879" y="4.8605347"></viz:position>
+        <viz:color r="181" g="69" b="209"></viz:color>
+      </node>
+      <node id="lodlam" label="lodlam">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-177.49902" y="322.83527"></viz:position>
+        <viz:color r="181" g="209" b="69"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="openglam" target="opendata" weight="17.0">
+        <attvalues>
+          <attvalue for="weight" value="17.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="openglam" target="tempiotetrastilo" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="openglam" target="copyright" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="openglam" target="allezculture" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="openglam" target="speriamopenbbcc">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="openglam" target="glamwiki">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="openglam" target="dplafest">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="openglam" target="eebotcphack">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="beniculturaliaperti" target="openglam" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="glamhack" target="openglam" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="glamhack" target="opendata" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="womenshistorymonth" target="openglam" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="womenshistorymonth" target="womeninscience" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="womeninscience" target="openglam" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="codingdavinci" target="openglam">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="hack4fi" target="openglam" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="hack4fi" target="avoinglam" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="avoinglam" target="openglam" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="mappingparty" target="openglam" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="wikivez" target="openglam" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="wikivez" target="bullismo" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="bullismo" target="openglam" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="verybello" target="openglam" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="digital" target="openglam">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="roma" target="openglam">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="roma" target="beniculturaliaperti">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="tdlab" target="openglam" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="glamwiki" target="dplafest">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="glamwiki" target="eebotcphack">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="dplafest" target="eebotcphack">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="lodlam" target="openglam">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,2040 @@
+<?xml version="1.0" ?>
+<gexf xmlns="http://www.gexf.net/1.1draft" version="1.1" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd">
+  <meta lastmodifieddate="2015-05-25">
+    <creator>Gephi 0.8</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" timeformat="double" mode="dynamic">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="In-Degree" title="In-Degree" type="integer"></attribute>
+      <attribute id="Out-Degree" title="Out-Degree" type="integer"></attribute>
+      <attribute id="Degree" title="Degree" type="integer"></attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="opendatasicilia" label="opendatasicilia">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="22"></attvalue>
+          <attvalue for="Out-Degree" value="11"></attvalue>
+          <attvalue for="Degree" value="33"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.2758620689655173"></attvalue>
+          <attvalue for="betweenesscentrality" value="666.9857142857143"></attvalue>
+        </attvalues>
+        <viz:size value="61.0"></viz:size>
+        <viz:position x="-134.17273" y="107.64427"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="mobilita_org" label="mobilita_org">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="1"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="374.7269" y="369.82837"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="fabion54" label="fabion54">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="14.790014" y="384.59976"></viz:position>
+        <viz:color r="10" g="101" b="170"></viz:color>
+      </node>
+      <node id="nazprinzivalli" label="nazprinzivalli">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="1"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.2"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="9.73031" y="85.10923"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="iovotofuorisede" label="iovotofuorisede">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="In-Degree" value="1"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.2413793103448274"></attvalue>
+          <attvalue for="betweenesscentrality" value="176.1"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="404.50247" y="-404.82104"></viz:position>
+        <viz:color r="10" g="170" b="101"></viz:color>
+      </node>
+      <node id="aborruso" label="aborruso">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="28"></attvalue>
+          <attvalue for="Out-Degree" value="20"></attvalue>
+          <attvalue for="Degree" value="48"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.3448275862068966"></attvalue>
+          <attvalue for="betweenesscentrality" value="993.2452380952382"></attvalue>
+        </attvalues>
+        <viz:size value="56.0"></viz:size>
+        <viz:position x="-0.15831278" y="0.1326945"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="digitalchampita" label="digitalchampita">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="In-Degree" value="8"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="8"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="191.80324" y="2.2436745"></viz:position>
+        <viz:color r="10" g="170" b="101"></viz:color>
+      </node>
+      <node id="giuliseno" label="giuliseno">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="12"></attvalue>
+          <attvalue for="Degree" value="12"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.1"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="70.07123" y="110.66457"></viz:position>
+        <viz:color r="170" g="147" b="10"></viz:color>
+      </node>
+      <node id="lucacorsato" label="lucacorsato">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="In-Degree" value="6"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="8"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.896551724137931"></attvalue>
+          <attvalue for="betweenesscentrality" value="21.016666666666666"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="-266.48355" y="254.16838"></viz:position>
+        <viz:color r="55" g="170" b="10"></viz:color>
+      </node>
+      <node id="adducesocial" label="adducesocial">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="In-Degree" value="7"></attvalue>
+          <attvalue for="Out-Degree" value="4"></attvalue>
+          <attvalue for="Degree" value="11"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.4482758620689653"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="163.3524" y="233.15085"></viz:position>
+        <viz:color r="170" g="147" b="10"></viz:color>
+      </node>
+      <node id="piersoft" label="piersoft">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="In-Degree" value="10"></attvalue>
+          <attvalue for="Out-Degree" value="10"></attvalue>
+          <attvalue for="Degree" value="20"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.586206896551724"></attvalue>
+          <attvalue for="betweenesscentrality" value="225.459523809524"></attvalue>
+        </attvalues>
+        <viz:size value="16.0"></viz:size>
+        <viz:position x="-79.80343" y="201.49838"></viz:position>
+        <viz:color r="170" g="147" b="10"></viz:color>
+      </node>
+      <node id="ida_leone" label="ida_leone">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="In-Degree" value="12"></attvalue>
+          <attvalue for="Out-Degree" value="5"></attvalue>
+          <attvalue for="Degree" value="17"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.4482758620689653"></attvalue>
+          <attvalue for="betweenesscentrality" value="138.13333333333333"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-46.705605" y="-97.75349"></viz:position>
+        <viz:color r="170" g="147" b="10"></viz:color>
+      </node>
+      <node id="maflumero" label="maflumero">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="In-Degree" value="8"></attvalue>
+          <attvalue for="Out-Degree" value="5"></attvalue>
+          <attvalue for="Degree" value="13"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.4482758620689653"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-166.71227" y="-85.15465"></viz:position>
+        <viz:color r="170" g="147" b="10"></viz:color>
+      </node>
+      <node id="alberto_cottica" label="alberto_cottica">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="In-Degree" value="8"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="8"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-87.73235" y="15.8118515"></viz:position>
+        <viz:color r="170" g="147" b="10"></viz:color>
+      </node>
+      <node id="giuliodichiara" label="giuliodichiara">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="13"></attvalue>
+          <attvalue for="Out-Degree" value="6"></attvalue>
+          <attvalue for="Degree" value="19"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.7241379310344827"></attvalue>
+          <attvalue for="betweenesscentrality" value="115.67857142857133"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-156.3516" y="-14.633448"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="sgipuglia" label="sgipuglia">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="14"></attvalue>
+          <attvalue for="Out-Degree" value="4"></attvalue>
+          <attvalue for="Degree" value="18"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.5517241379310347"></attvalue>
+          <attvalue for="betweenesscentrality" value="87.58571428571429"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="20.037788" y="-121.23826"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="openbasilicata" label="openbasilicata">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="11"></attvalue>
+          <attvalue for="Out-Degree" value="5"></attvalue>
+          <attvalue for="Degree" value="16"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.5172413793103448"></attvalue>
+          <attvalue for="betweenesscentrality" value="23.72857142857142"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="74.65653" y="-76.87815"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="giordano1977" label="giordano1977">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="3"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.1379310344827585"></attvalue>
+          <attvalue for="betweenesscentrality" value="161.1"></attvalue>
+        </attvalues>
+        <viz:size value="7.0"></viz:size>
+        <viz:position x="292.97592" y="116.418144"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="freaknetmuseum" label="freaknetmuseum">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="In-Degree" value="4"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="103.02477" y="143.52321"></viz:position>
+        <viz:color r="170" g="147" b="10"></viz:color>
+      </node>
+      <node id="nelsonmau" label="nelsonmau">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="2"></attvalue>
+          <attvalue for="Out-Degree" value="16"></attvalue>
+          <attvalue for="Degree" value="18"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.5151515151515151"></attvalue>
+          <attvalue for="betweenesscentrality" value="65.99999999999999"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="2.3664446" y="118.200226"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="angsanfilippo" label="angsanfilippo">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="1"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-404.02496" y="161.34564"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="minghiarjl" label="minghiarjl">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="5"></attvalue>
+          <attvalue for="Degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.3666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="46.917984" y="-270.15097"></viz:position>
+        <viz:color r="170" g="147" b="10"></viz:color>
+      </node>
+      <node id="gzileni" label="gzileni">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="1"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.517241379310345"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-57.22803" y="150.89264"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="raimondiand" label="raimondiand">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="4"></attvalue>
+          <attvalue for="Degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.1333333333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="194.59033" y="-281.03906"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="giuragu" label="giuragu">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="4"></attvalue>
+          <attvalue for="Out-Degree" value="5"></attvalue>
+          <attvalue for="Degree" value="9"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.8620689655172415"></attvalue>
+          <attvalue for="betweenesscentrality" value="16.466666666666665"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-37.603703" y="193.44373"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="a_tortorelli" label="a_tortorelli">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="6"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.0"></viz:size>
+        <viz:position x="-114.51142" y="-1.6501915"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="vickygarcia_" label="vickygarcia_">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-169.51996" y="-248.45282"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="acitoa" label="acitoa">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-37.22854" y="142.53691"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="paolalilianab" label="paolalilianab">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="3"></attvalue>
+          <attvalue for="Out-Degree" value="3"></attvalue>
+          <attvalue for="Degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.1379310344827585"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="89.823555" y="-31.70006"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="vincpatruno" label="vincpatruno">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="4"></attvalue>
+          <attvalue for="Degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.8666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="62.102394" y="61.21566"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="giuseppemilano" label="giuseppemilano">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.1333333333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="154.83351" y="-169.715"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="4g0st1n0" label="4g0st1n0">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-236.46938" y="300.77194"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="massimozotti" label="massimozotti">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="3"></attvalue>
+          <attvalue for="Degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.066666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-245.22977" y="291.31693"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="pietroblu" label="pietroblu">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="In-Degree" value="3"></attvalue>
+          <attvalue for="Out-Degree" value="8"></attvalue>
+          <attvalue for="Degree" value="11"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.896551724137931"></attvalue>
+          <attvalue for="betweenesscentrality" value="254.5"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="90.74866" y="37.35261"></viz:position>
+        <viz:color r="55" g="170" b="10"></viz:color>
+      </node>
+      <node id="ego55_" label="ego55_">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.1333333333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-29.222178" y="315.4116"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="rita_orlando" label="rita_orlando">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="5"></attvalue>
+          <attvalue for="Degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.3666666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="219.69026" y="-99.10435"></viz:position>
+        <viz:color r="170" g="147" b="10"></viz:color>
+      </node>
+      <node id="zabov" label="zabov">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-303.44714" y="-66.34251"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="massimosanti" label="massimosanti">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="171.93367" y="68.66137"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="dagoneye" label="dagoneye">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.2"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="360.16776" y="63.89223"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="manuelavacca" label="manuelavacca">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="2"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="372.80637" y="-236.08148"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="fdellutri" label="fdellutri">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="2"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="-436.3591" y="-424.00092"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="alfajonica" label="alfajonica">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.133333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-293.0083" y="126.38662"></viz:position>
+        <viz:color r="170" g="147" b="10"></viz:color>
+      </node>
+      <node id="osservatoreluc" label="osservatoreluc">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="In-Degree" value="2"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.275862068965517"></attvalue>
+          <attvalue for="betweenesscentrality" value="29.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="202.1039" y="-131.40884"></viz:position>
+        <viz:color r="170" g="147" b="10"></viz:color>
+      </node>
+      <node id="roccoliccione" label="roccoliccione">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.333333333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="255.66353" y="-296.5676"></viz:position>
+        <viz:color r="170" g="147" b="10"></viz:color>
+      </node>
+      <node id="livesicilia" label="livesicilia">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="2"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-38.74149" y="75.95148"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="cronitaliana" label="cronitaliana">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="In-Degree" value="2"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.2"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="-76.83079" y="249.57915"></viz:position>
+        <viz:color r="170" g="10" b="10"></viz:color>
+      </node>
+      <node id="patriziasaggia" label="patriziasaggia">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="218.61432" y="-252.31683"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="monicaguizzardi" label="monicaguizzardi">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.2666666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-307.90955" y="115.03675"></viz:position>
+        <viz:color r="10" g="170" b="101"></viz:color>
+      </node>
+      <node id="jenkin27" label="jenkin27">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="12.189674" y="-316.55908"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="biggimnow" label="biggimnow">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.8333333333333335"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="196.48132" y="-232.9241"></viz:position>
+        <viz:color r="55" g="170" b="10"></viz:color>
+      </node>
+      <node id="mariannabruschi" label="mariannabruschi">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.129032258064516"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="263.89957" y="310.57938"></viz:position>
+        <viz:color r="170" g="10" b="10"></viz:color>
+      </node>
+      <node id="opendataer" label="opendataer">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-323.16693" y="388.55188"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="lebowskiana" label="lebowskiana">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-429.9108" y="-10.1514635"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="marcomb" label="marcomb">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-83.75591" y="49.165623"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="cirospat" label="cirospat">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="1"></attvalue>
+          <attvalue for="Out-Degree" value="3"></attvalue>
+          <attvalue for="Degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.066666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="316.8683" y="-158.35158"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="_juhan" label="_juhan">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.4705882352941178"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-257.27243" y="-43.55716"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="radioprozac" label="radioprozac">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.4705882352941178"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="302.50446" y="-20.960789"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="viminale" label="viminale">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="In-Degree" value="1"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="208.55461" y="-308.57672"></viz:position>
+        <viz:color r="55" g="170" b="10"></viz:color>
+      </node>
+      <node id="openpolis" label="openpolis">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="In-Degree" value="1"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-52.493427" y="-66.27297"></viz:position>
+        <viz:color r="55" g="170" b="10"></viz:color>
+      </node>
+      <node id="stelab_82" label="stelab_82">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.2666666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-401.53415" y="-104.27222"></viz:position>
+        <viz:color r="10" g="170" b="101"></viz:color>
+      </node>
+      <node id="morenaragone" label="morenaragone">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="In-Degree" value="1"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="88.35737" y="62.089645"></viz:position>
+        <viz:color r="55" g="170" b="10"></viz:color>
+      </node>
+      <node id="micheleemiliano" label="micheleemiliano">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="In-Degree" value="1"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-208.03615" y="43.973118"></viz:position>
+        <viz:color r="55" g="170" b="10"></viz:color>
+      </node>
+      <node id="lucacominassi" label="lucacominassi">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-175.38179" y="-182.99992"></viz:position>
+        <viz:color r="55" g="170" b="10"></viz:color>
+      </node>
+      <node id="zioluc" label="zioluc">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.2666666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="252.5886" y="-89.117966"></viz:position>
+        <viz:color r="10" g="170" b="101"></viz:color>
+      </node>
+      <node id="atcaronte" label="atcaronte">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.2666666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="448.55435" y="-398.50327"></viz:position>
+        <viz:color r="10" g="170" b="101"></viz:color>
+      </node>
+      <node id="andria_tzedda" label="andria_tzedda">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-18.893293" y="-431.82068"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="grimaldi1972" label="grimaldi1972">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.966666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="-160.94272" y="325.2872"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="geoportaletp" label="geoportaletp">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="2"></attvalue>
+          <attvalue for="Degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.2666666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="441.11124" y="-19.089937"></viz:position>
+        <viz:color r="10" g="170" b="101"></viz:color>
+      </node>
+      <node id="eugenioagnello" label="eugenioagnello">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-361.97498" y="411.8387"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="picomiles" label="picomiles">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="0"></attvalue>
+          <attvalue for="Degree" value="0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-100.842865" y="425.78442"></viz:position>
+        <viz:color r="55" g="10" b="170"></viz:color>
+      </node>
+      <node id="gius_reale" label="gius_reale">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.2"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="71.930115" y="-138.62183"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="laurastrano" label="laurastrano">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="-376.29733" y="-25.084034"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="aputaggio" label="aputaggio">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="150.09984" y="-27.302473"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="lucamoiana" label="lucamoiana">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-55.215" y="108.286415"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+      <node id="napo" label="napo">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="In-Degree" value="0"></attvalue>
+          <attvalue for="Out-Degree" value="1"></attvalue>
+          <attvalue for="Degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.3"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="337.15427" y="-66.41079"></viz:position>
+        <viz:color r="170" g="10" b="147"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="opendatasicilia" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="opendatasicilia" target="mobilita_org">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="opendatasicilia" target="iovotofuorisede">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="opendatasicilia" target="lucacorsato">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="opendatasicilia" target="giuliodichiara">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="opendatasicilia" target="sgipuglia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="opendatasicilia" target="openbasilicata" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="opendatasicilia" target="giordano1977">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="opendatasicilia" target="freaknetmuseum" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="opendatasicilia" target="a_tortorelli">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="opendatasicilia" target="livesicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nazprinzivalli" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="iovotofuorisede" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="iovotofuorisede" target="digitalchampita">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="opendatasicilia" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="digitalchampita">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="lucacorsato" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="adducesocial">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="piersoft" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="ida_leone" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="maflumero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="alberto_cottica">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="giuliodichiara">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="sgipuglia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="openbasilicata" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="angsanfilippo">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="a_tortorelli">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="paolalilianab">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="pietroblu">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="manuelavacca">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="fdellutri">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="osservatoreluc">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aborruso" target="livesicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliseno" target="opendatasicilia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliseno" target="lucacorsato">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliseno" target="adducesocial">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliseno" target="piersoft">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliseno" target="ida_leone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliseno" target="maflumero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliseno" target="alberto_cottica">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliseno" target="giuliodichiara">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliseno" target="sgipuglia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliseno" target="openbasilicata">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliseno" target="giordano1977">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliseno" target="freaknetmuseum" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="lucacorsato" target="opendatasicilia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="lucacorsato" target="ida_leone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="adducesocial" target="piersoft">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="adducesocial" target="ida_leone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="adducesocial" target="maflumero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="adducesocial" target="alberto_cottica">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="piersoft" target="opendatasicilia" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="piersoft" target="adducesocial">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="piersoft" target="piersoft">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="piersoft" target="ida_leone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="piersoft" target="maflumero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="piersoft" target="alberto_cottica">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="piersoft" target="giuliodichiara" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="piersoft" target="sgipuglia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="piersoft" target="openbasilicata">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="piersoft" target="giuragu">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="ida_leone" target="adducesocial">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="ida_leone" target="piersoft">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="ida_leone" target="ida_leone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="ida_leone" target="maflumero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="ida_leone" target="alberto_cottica">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="maflumero" target="adducesocial">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="maflumero" target="piersoft">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="maflumero" target="ida_leone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="maflumero" target="maflumero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="maflumero" target="alberto_cottica">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliodichiara" target="opendatasicilia" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliodichiara" target="ida_leone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliodichiara" target="giuliodichiara">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliodichiara" target="sgipuglia" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliodichiara" target="openbasilicata" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuliodichiara" target="giuragu">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sgipuglia" target="giuliodichiara">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sgipuglia" target="sgipuglia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sgipuglia" target="openbasilicata">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sgipuglia" target="gzileni">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="openbasilicata" target="giuliodichiara" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="openbasilicata" target="sgipuglia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="openbasilicata" target="openbasilicata" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="openbasilicata" target="giuragu">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="openbasilicata" target="a_tortorelli">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giordano1977" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giordano1977" target="aborruso" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="freaknetmuseum" target="freaknetmuseum">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="opendatasicilia" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="nazprinzivalli">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="aborruso" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="lucacorsato" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="piersoft">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="giuliodichiara">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="sgipuglia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="openbasilicata">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="giordano1977">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="freaknetmuseum" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="paolalilianab">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="pietroblu">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="manuelavacca">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="fdellutri">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="cronitaliana">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="nelsonmau" target="cirospat">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="minghiarjl" target="adducesocial">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="minghiarjl" target="piersoft">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="minghiarjl" target="ida_leone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="minghiarjl" target="maflumero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="minghiarjl" target="alberto_cottica">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="gzileni" target="sgipuglia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="raimondiand" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="raimondiand" target="giuliodichiara">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="raimondiand" target="sgipuglia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="raimondiand" target="openbasilicata">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuragu" target="opendatasicilia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuragu" target="giuliodichiara" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuragu" target="sgipuglia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuragu" target="openbasilicata" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuragu" target="a_tortorelli">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="vickygarcia_" target="a_tortorelli">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="acitoa" target="a_tortorelli">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="paolalilianab" target="opendatasicilia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="paolalilianab" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="paolalilianab" target="paolalilianab">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="vincpatruno" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="vincpatruno" target="giuliodichiara">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="vincpatruno" target="sgipuglia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="vincpatruno" target="openbasilicata">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuseppemilano" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="giuseppemilano" target="sgipuglia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="4g0st1n0" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="massimozotti" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="massimozotti" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="massimozotti" target="sgipuglia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pietroblu" target="aborruso" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pietroblu" target="digitalchampita">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pietroblu" target="lucacorsato">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pietroblu" target="piersoft">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pietroblu" target="viminale">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pietroblu" target="openpolis">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pietroblu" target="morenaragone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pietroblu" target="micheleemiliano">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="ego55_" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="ego55_" target="giuragu">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="rita_orlando" target="adducesocial">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="rita_orlando" target="piersoft">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="rita_orlando" target="ida_leone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="rita_orlando" target="maflumero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="rita_orlando" target="alberto_cottica">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="zabov" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="massimosanti" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="dagoneye" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="alfajonica" target="osservatoreluc">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="osservatoreluc" target="ida_leone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="roccoliccione" target="ida_leone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="cronitaliana" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="patriziasaggia" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="monicaguizzardi" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="monicaguizzardi" target="digitalchampita">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="jenkin27" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="biggimnow" target="pietroblu">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="mariannabruschi" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="mariannabruschi" target="cronitaliana">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="opendataer" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="lebowskiana" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="marcomb" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="cirospat" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="cirospat" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="cirospat" target="giuliodichiara">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="_juhan" target="nelsonmau">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="radioprozac" target="nelsonmau">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="stelab_82" target="aborruso" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="stelab_82" target="digitalchampita">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="lucacominassi" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="lucacominassi" target="lucacorsato">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="zioluc" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="zioluc" target="digitalchampita">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="atcaronte" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="atcaronte" target="digitalchampita">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="andria_tzedda" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="grimaldi1972" target="opendatasicilia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="grimaldi1972" target="giuliodichiara">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="geoportaletp" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="geoportaletp" target="digitalchampita">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="eugenioagnello" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="gius_reale" target="opendatasicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="laurastrano" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="aputaggio" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="lucamoiana" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="napo" target="aborruso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
